@@ -1,0 +1,25 @@
+# Build output
+/wtm
+/wtm.exe
+dist/
+
+# Output directory (generated Markdown)
+output/
+
+# Session files (contain authentication cookies)
+~/.wtm/
+
+# Go test cache and coverage
+*.test
+*.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
